@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets\css\estilo.css">
+    <link rel="stylesheet" href="assets\css\exercicio.css">
     <title>Curso PHP</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
                 <div class="modulo verde">
                     <h3>modulo 01 - Básico</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicio.php">Exercício A</a></li>
                         <li><a href="#">Exercício B</B></a></li>
                         <li><a href="#">Exercício C</a></li>
                     </ul>
@@ -90,7 +91,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS ₢ 2024
+        COD3R & ALUNOS ₢ <?= date('D/M/Y');?>
     </footer>
     
 </body>
