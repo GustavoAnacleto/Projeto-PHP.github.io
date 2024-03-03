@@ -27,15 +27,66 @@
                                 Integração HTML
                             </a>
                         </li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=css">
+                                Integração CSS
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=comentarios">
+                                Comentários PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=basico&file=desafio">
+                                Desafio
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>modulo 02 - Básico</h3>
+                    <h3>modulo 02 - Tipos</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</B></a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                               Tipo Inteiro
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                               Tipo Ponto Flutuante
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmeticas">
+                               Op. Aritméticas
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                               Desafio Precedência
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=string">
+                               String
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_string">
+                               Desafio String
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=booleano">
+                               Tipo Bolleano
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=conversoes">
+                               Conversões
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo azul">
