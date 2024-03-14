@@ -135,11 +135,49 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>modulo 04 - Básico</h3>
+                    <h3>modulo 04 - Controle</h3>
                     <ul>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício B</B></a></li>
-                        <li><a href="#">Exercício C</a></li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=if_else">
+                                If Else
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                               Operadores_Relacionais
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_pi">
+                                Desafio pi
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operadores_logicos">
+                                Op. Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
+                                Desafio Op. Lógicos
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=operador_ternario">
+                                 Op. Térnario
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=switch">
+                                 Switch
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=controle&file=desafio_switch">
+                                 Desafio Switch
+                            </a>
+                        </li>
+
                     </ul>
                 </div>
                 <div class="modulo laranja">
